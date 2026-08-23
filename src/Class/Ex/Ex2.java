@@ -6,6 +6,7 @@ public class Ex2 {
         product1.productName = "맥북";
         product1.price = 1000000;
         product1.quantity = 3;
+
         ProductOrder product2 = new ProductOrder();
         product2.productName = "그램";
         product2.price = 900000;
