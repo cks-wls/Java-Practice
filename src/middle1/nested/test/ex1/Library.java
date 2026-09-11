@@ -13,8 +13,8 @@ public class Library {
     }
 
     private static class Book {
-        public String bookName;
-        public String author;
+        private String bookName;
+        private String author;
 
         public Book(String bookName, String author) {
             this.bookName = bookName;
